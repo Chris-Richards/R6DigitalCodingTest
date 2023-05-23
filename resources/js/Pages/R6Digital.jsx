@@ -39,7 +39,7 @@ export default function R6Digital() {
 
     return (
         <GuestLayout>
-            <Head title="R9 Digital" />
+            <Head title="R6 Digital" />
 
             <div className="">
                 <select 
